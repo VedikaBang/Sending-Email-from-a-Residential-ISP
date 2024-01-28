@@ -15,7 +15,7 @@ Understanding the practical aspects of how to send emails from a residential Int
 4. **Advocacy and Policy Change**: Understanding the limitations and capabilities of residential ISPs in email sending can inform discussions and advocacy around internet policies, potentially leading to more user-friendly and flexible ISP practices.
 5. **Customization and Control**: Setting up your own email sending system allows for greater customization and control over your email environment, which can be important for specific technical or privacy needs.
 
-- ** Link for the research paper ** [View the paper] (#)
+### ** Link for the research paper ** : [View the paper] (https://github.com/VedikaBang/Sending-Email-from-a-Residential-ISP/blob/main/Sending_Email_from_a_Residential_ISP.pdf)
 
 ### Comic Strip: Understanding the Concept
 To help visualize and simplify the study's concept, we've created a comic strip. It walks through the challenges and solutions of using a residential ISP for email in a fun and engaging way.
